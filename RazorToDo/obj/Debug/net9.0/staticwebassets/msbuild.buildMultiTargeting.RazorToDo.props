@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RazorToDo.props" />
+</Project>
