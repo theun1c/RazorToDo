@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RazorToDo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb7d0672a17aa72e1d088a450bfcee7cdec03464")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37cd62983a959882a08b8cf08e3197fb7d652664")]
 [assembly: System.Reflection.AssemblyProductAttribute("RazorToDo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RazorToDo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
